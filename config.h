@@ -20,5 +20,6 @@
 #define BLOCKS(X)             \
     X("", "~/.local/bin/sb_battery", 30, 12) \
     X("", "~/.local/bin/sb_date", 30, 17) \
+    X("", "~/.local/bin/sb_volume", 0, 10) \
 
 #endif  // CONFIG_H
