@@ -21,6 +21,7 @@
     X("", "~/.local/bin/sb_music", 0, 11) \
     X("", "~/.local/bin/sb_resources", 5, 14) \
     X("", "~/.local/bin/sb_wifi", 10, 13) \
+    X("", "~/.local/bin/sb_bluetooth", 10, 16) \
     X("", "~/.local/bin/sb_battery", 30, 12) \
     X("", "~/.local/bin/sb_date", 30, 17) \
     X("", "~/.local/bin/sb_brightness", 0, 15) \
