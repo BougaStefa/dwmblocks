@@ -19,6 +19,7 @@
 // Define blocks for the status feed as X(icon, cmd, interval, signal).
 #define BLOCKS(X)             \
     X("", "~/.local/bin/sb_music", 0, 11) \
+    X("", "~/.local/bin/sb_wifi", 10, 13) \
     X("", "~/.local/bin/sb_battery", 30, 12) \
     X("", "~/.local/bin/sb_date", 30, 17) \
     X("", "~/.local/bin/sb_volume", 0, 10) \
